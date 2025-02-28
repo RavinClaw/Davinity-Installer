@@ -1,6 +1,11 @@
 # Davinity-Installer
 A little installer project that allows you to create a simple installer using python that can download files and / or store them locally
 
+# Want to install it manually
+The command I used to turn this into an application
+```
+pyinstaller --onefile --windowed --icon="Davinity Installer/davinity.ico" --name "Davinity Installer" --add-data "Davinity Installer/davinity.png;Davinity Installer" "Davinity Installer/__main__.py"
+```
 
 # How to use Davinity Installer
 The `index.json` is the location where all of your files are specified, here is an exmaple
