@@ -29,3 +29,14 @@ The `index.json` is the location where all of your files are specified, here is 
     ]
 }
 ```
+
+
+
+# Suggesting more content
+I give you permission to use the `Issues` tab for this, but please keep in mind to use [Suggestion] in your title, also I will not accept suggestions that are about using a different language or making some sort of auto script installer like a plugins folder that runs scripts on completed install or during install, I won't accept those due to security reasons. and Yes I will be adding hashing in the future.
+
+# What I have planned
+Next Version: `v0.2`:
+ - Hash the provided files so that they can be verified
+ - Adding an `Author` and `Source-URL` to the installer `index.json` for people to say who they are
+ - Updating the GUI for the installer to make it fancy and adding some more text durring the Install Page
