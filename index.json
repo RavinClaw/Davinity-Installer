@@ -1,0 +1,9 @@
+{
+    "version": "0.1",
+
+    "package_name": "",
+    "package_version": "",
+    "package_description": "",
+    "package_default": "%appdata%/%n/",
+    "files": []
+}
